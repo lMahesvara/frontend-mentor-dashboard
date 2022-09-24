@@ -1,5 +1,4 @@
 import React from "react"
-import svg from "../images/icon-down.svg"
 
 const SocialCard = ({ name, username, followers, today, up, icon, color }) => {
   return (
