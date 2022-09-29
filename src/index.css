@@ -10,8 +10,19 @@ root {
   --hola: #c4032a;
 
   --hola: #f5f7ff;
-  --hola: #f0f2fa;
+  --hola: #e2e4ec;
   --hola: #63687e;
   --hola: #1e202a;
   --hola: #1db489;
+  --hola: #dc414c;
+  --hola: #aeb3cb;
+
+  /* dark mode */
+  --hola: #1c1e26; /* bg */
+  --hola: #242635; /* bg */
+  --hola: #8b97c6; /* bg */
+  --hola: #252a41; /* bg */
+  --hola: #363e5f; /* bg */
+  --from: #378fe6; /* bg */
+  --to: #3eda82; /* bg */
 }
